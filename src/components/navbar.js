@@ -50,7 +50,7 @@ export default function Navbar() {
                           select-none
                         "
                   >
-                    young
+                    mym
                   </h1>
                 </div>
               </Link>
