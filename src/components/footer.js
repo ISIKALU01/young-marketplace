@@ -25,7 +25,7 @@ export default function Footer() {
           <div className="lg:col-span-2">
             <Link href="/">
               <h2 className="inline-block text-white bg-clip-text text-4xl font-black lowercase tracking-tight text-transparent">
-                young
+                mym
               </h2>
             </Link>
 

@@ -8,7 +8,7 @@ import Image from "next/image";
 const slides = [
   {
     image: "/images/younghero2.jpg",
-    title: "THIS IS YOUNG",
+    title: "MYM fashion hub",
     subtitle:
       "Premium fashion marketplace redefining modern streetwear.",
   },
@@ -96,9 +96,9 @@ export default function Hero() {
             transition={{ duration: 1, delay: 0.2 }}
             className="text-5xl font-black leading-none tracking-tight text-white sm:text-6xl md:text-7xl lg:text-8xl"
           >
-            THIS IS{" "}
+            MYM{" "}
             <span className="text-zinc-300">
-              YOUNG
+              FASHION HUB
             </span>
           </motion.h1>
 
